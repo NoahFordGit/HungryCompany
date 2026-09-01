@@ -7,3 +7,5 @@ The company monster will now kill everyone in its path, no longer just one emplo
 - Unzip this mod into your `Lethal Company/BepInEx` folder
   
 Or use the thunderstore mod manager to handle the installing for you.
+
+You can find my other mods **[here!](https://thunderstore.io/c/lethal-company/p/nihl/)**
